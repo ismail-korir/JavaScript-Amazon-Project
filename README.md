@@ -7,11 +7,7 @@ A dynamic e-commerce website built using HTML5, CSS3, and JavaScript, simulating
 
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -37,13 +33,3 @@ To run the project locally or on your server, follow these steps:
    ```bash
    git clone https://github.com/ismail-korir/javascript-amazon-project.git
 
-## Usage
-Browse through the product listings to find items you'd like to purchase.
-
-Click on a product to view its details, add it to your cart, and proceed to checkout.
-
-If you have an account, log in to track your orders and manage your profile.
-
-Complete the checkout process by providing shipping information and payment details.
-
-Confirm your order, and you will receive an order confirmation.
